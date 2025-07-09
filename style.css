@@ -35,7 +35,8 @@ nav ul {
 nav ul li a {
   color: rgb (236, 5, 5);
   font-weight: 600;
-  padding: 0.3 rem 0.6 rem;
+  margin:20px
+  padding: 0.6 rem 0.9 rem;
   border-radius: 4 px;
   transition: background 0.3 s ease;
 }
